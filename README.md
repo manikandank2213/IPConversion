@@ -1,5 +1,5 @@
 # IPConversion
-C# Program for COnversion(IPv4-IPv6)
+C# Program for Conversion(IPv4-IPv6)
 
 //Input
 1. First Input is IPV4 Address
