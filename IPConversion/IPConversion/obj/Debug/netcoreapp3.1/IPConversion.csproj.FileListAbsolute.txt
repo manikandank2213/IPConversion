@@ -1,0 +1,13 @@
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.exe
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.deps.json
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.runtimeconfig.json
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.runtimeconfig.dev.json
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.dll
+C:\Users\manik\source\repos\IPConversion\IPConversion\bin\Debug\netcoreapp3.1\IPConversion.pdb
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.csprojAssemblyReference.cache
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.AssemblyInfoInputs.cache
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.AssemblyInfo.cs
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.dll
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.pdb
+C:\Users\manik\source\repos\IPConversion\IPConversion\obj\Debug\netcoreapp3.1\IPConversion.genruntimeconfig.cache
